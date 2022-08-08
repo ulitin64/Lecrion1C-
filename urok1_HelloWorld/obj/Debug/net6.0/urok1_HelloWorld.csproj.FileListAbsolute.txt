@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\учеба\Знакомство с языками программирования C#\Урок 1\C#\urok1_HelloWorld\bin\Debug\net6.0\urok1_HelloWorld.exe
+C:\Users\Admin\Desktop\учеба\Знакомство с языками программирования C#\Урок 1\C#\urok1_HelloWorld\bin\Debug\net6.0\urok1_HelloWorld.deps.json
+C:\Users\Admin\Desktop\учеба\Знакомство с языками программирования C#\Урок 1\C#\urok1_HelloWorld\bin\Debug\net6.0\urok1_HelloWorld.runtimeconfig.json
+C:\Users\Admin\Desktop\учеба\Знакомство с языками программирования C#\Урок 1\C#\urok1_HelloWorld\bin\Debug\net6.0\urok1_HelloWorld.dll
+C:\Users\Admin\Desktop\учеба\Знакомство с языками программирования C#\Урок 1\C#\urok1_HelloWorld\bin\Debug\net6.0\urok1_HelloWorld.pdb
+C:\Users\Admin\Desktop\учеба\Знакомство с языками программирования C#\Урок 1\C#\urok1_HelloWorld\obj\Debug\net6.0\urok1_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\учеба\Знакомство с языками программирования C#\Урок 1\C#\urok1_HelloWorld\obj\Debug\net6.0\urok1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\учеба\Знакомство с языками программирования C#\Урок 1\C#\urok1_HelloWorld\obj\Debug\net6.0\urok1_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\учеба\Знакомство с языками программирования C#\Урок 1\C#\urok1_HelloWorld\obj\Debug\net6.0\urok1_HelloWorld.AssemblyInfo.cs
+C:\Users\Admin\Desktop\учеба\Знакомство с языками программирования C#\Урок 1\C#\urok1_HelloWorld\obj\Debug\net6.0\urok1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\учеба\Знакомство с языками программирования C#\Урок 1\C#\urok1_HelloWorld\obj\Debug\net6.0\urok1_HelloWorld.dll
+C:\Users\Admin\Desktop\учеба\Знакомство с языками программирования C#\Урок 1\C#\urok1_HelloWorld\obj\Debug\net6.0\refint\urok1_HelloWorld.dll
+C:\Users\Admin\Desktop\учеба\Знакомство с языками программирования C#\Урок 1\C#\urok1_HelloWorld\obj\Debug\net6.0\urok1_HelloWorld.pdb
+C:\Users\Admin\Desktop\учеба\Знакомство с языками программирования C#\Урок 1\C#\urok1_HelloWorld\obj\Debug\net6.0\urok1_HelloWorld.genruntimeconfig.cache
+C:\Users\Admin\Desktop\учеба\Знакомство с языками программирования C#\Урок 1\C#\urok1_HelloWorld\obj\Debug\net6.0\ref\urok1_HelloWorld.dll
